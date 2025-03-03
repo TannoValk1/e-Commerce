@@ -3,12 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\helppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\helppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\00d073919b36ae9e6fca70b9cf8d931d7bd9209e\\AppShell.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|c:\\users\\opilane\\source\\repos\\e-commerce\\commerce\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245F92A7-86BF-46BE-BE22-BE445C7BFE07}|Commerce\\Commerce.csproj|solutionrelative:commerce\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,29 +112,180 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Commerce",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Commerce.csproj",
-              "RelativeDocumentMoniker": "Commerce\\Commerce.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Commerce.csproj",
-              "RelativeToolTip": "Commerce\\Commerce.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T11:11:41.981Z",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Commerce\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Models\\CartItem.cs",
+              "RelativeToolTip": "Commerce\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:20:22.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Commerce\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Commerce\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-03T11:10:46.897Z",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Enumerations\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Commerce\\Enumerations\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Enumerations\\OrderStatus.cs",
+              "RelativeToolTip": "Commerce\\Enumerations\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:20:12.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Commerce\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Models\\Category.cs",
+              "RelativeToolTip": "Commerce\\Models\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:01:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Commerce\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:41:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\00d073919b36ae9e6fca70b9cf8d931d7bd9209e\\AppShell.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\00d073919b36ae9e6fca70b9cf8d931d7bd9209e\\AppShell.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\00d073919b36ae9e6fca70b9cf8d931d7bd9209e\\AppShell.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\00d073919b36ae9e6fca70b9cf8d931d7bd9209e\\AppShell.xaml.sg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:41:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAFUCAAAAAAAAAAAIwGgCAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-03T12:39:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\HelpPage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\HelpPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\HelpPage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\HelpPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:51:06.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\ProfilePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:50:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\OrdersPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\OrdersPage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\OrdersPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:49:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\BasketPage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\BasketPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\BasketPage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\BasketPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:49:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\CategoriesPage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\CategoriesPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\CategoriesPage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\CategoriesPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:48:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Commerce\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Commerce\\Pages\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:48:01.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Commerce\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\AppShell.xaml",
+              "RelativeToolTip": "Commerce\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T11:34:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Commerce\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\e-Commerce\\Commerce\\MauiProgram.cs",
+              "RelativeToolTip": "Commerce\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:29:16.476Z"
             }
           ]
         }

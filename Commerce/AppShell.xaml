@@ -5,11 +5,40 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:Commerce"
     Shell.FlyoutBehavior="Disabled"
-    Title="Commerce">
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+    xmlns:pages="clr-namespace:Commerce.Pages"
+    Shell.TabBarBackgroundColor="{StaticResource Mid}"
+    Shell.TabBarTitleColor="{StaticResource White}"
+    Shell.BackgroundColor="{StaticResource Mid}  ">
 
-    <ShellContent
-        Title="Home"
+    <Shell.Behaviors>
+        <toolkit:StatusBarBehavior StatusBarColor="{StaticResource Primary}" />
+    </Shell.Behaviors>
+    <!--<ShellContent
+        Title="Commerce"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Route="MainPage" />-->
+    <TabBar>
+        <ShellContent Title="Home"
+                      Icon="bxsHome.svg"
+                      ContentTemplate="{DataTemplate pages:HomePage}"
+                      Route="HomePage" />
+        <ShellContent Title="Categories"
+              Icon="bxsCategory.svg"
+              ContentTemplate="{DataTemplate pages:CategoriesPage}"
+              Route="CategoriesPage" />
+        <ShellContent Title="Orders"
+              Icon="bxsList.svg"
+              ContentTemplate="{DataTemplate pages:OrdersPage}"
+              Route="Orderspage" />
+        <ShellContent Title="Profile"
+              Icon="bxsProfile.svg"
+              ContentTemplate="{DataTemplate pages:ProfilePage}"
+              Route="ProfilePage" />
+        <ShellContent Title="Help"
+              Icon="bxsHelp.svg"
+              ContentTemplate="{DataTemplate pages:HelpPage}"
+              Route="HelpPage" />
+    </TabBar>
 
 </Shell>
