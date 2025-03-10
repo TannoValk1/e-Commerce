@@ -1,4 +1,7 @@
-﻿using CommunityToolkit.Maui;
+﻿using Commerce.Pages;
+using Commerce.Services;
+using Commerce.ViewModels;
+using CommunityToolkit.Maui;
 using Microsoft.Extensions.Logging;
 
 namespace Commerce
@@ -16,9 +19,12 @@ namespace Commerce
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 })
                 .UseMauiCommunityToolkit();
+            builder.Services.AddSingleton<CategoryService>();
+            builder.Services.AddSingleton<HomePageViewModel>();
+            builder.Services.AddSingleton<HomePage>();
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

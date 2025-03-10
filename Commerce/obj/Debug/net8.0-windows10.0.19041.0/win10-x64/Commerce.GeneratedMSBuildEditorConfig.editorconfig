@@ -24,6 +24,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Commerce.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/opilane/source/repos/e-Commerce/Commerce/Controls/Spacer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Commerce.Controls.Spacer.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\Spacer.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\Spacer.xaml
+
 [C:/Users/opilane/source/repos/e-Commerce/Commerce/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commerce.MainPage.xaml
